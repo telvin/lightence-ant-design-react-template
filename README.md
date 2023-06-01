@@ -1,3 +1,5 @@
+GitHub (https://github.com/telvin/lightence-ant-design-react-template)
+
 # Lightence
 
 React-powered **100% FREE** Admin Dashboard Template for building rich user interfaces significantly faster. For developers of all levels. Open-source and maintained by the [Altence](https://altence.com) team.
@@ -55,6 +57,11 @@ yarn install && yarn start
 Production mode
 ```
 yarn install && yarn build
+```
+
+Start
+```
+serve -d build
 ```
 
 #### How to analyze the bundle size
